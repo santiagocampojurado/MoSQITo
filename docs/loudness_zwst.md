@@ -52,3 +52,4 @@ ISO 532-1:2017, Acoustics — Methods for calculating
 loudness — Part 1: Zwicker method
 
 Zwicker E., Fastl H. Program for calculating loudness according to DIN 45631 (ISO 532B). J.A.S.J 1991, (E) 12, 1
+ 
